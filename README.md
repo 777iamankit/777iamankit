@@ -1,6 +1,6 @@
 - 👋 Hi, I’m iamankit
 - 👀 I’m interested in coding and sports
-- 🌱 I’m currently learning java and javascti
+- 🌱 I’m currently learning java and javascript
 - 📫 you can reach me with my Instagram :-ankitkumar621234
 
 <!---
